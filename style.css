@@ -157,6 +157,7 @@ nav {
   border-bottom: 1px solid darkcyan;
   margin-bottom: 2rem;
   background-color: var(--bg-light);
+  box-shadow: 0 0 2rem rgb(0, 84, 84);
   
 }
 nav .wrapper {
