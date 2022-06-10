@@ -153,6 +153,11 @@ nav {
   width: 100vw;
 
   z-index: 100;
+  
+  border-bottom: 1px solid darkcyan;
+  margin-bottom: 2rem;
+  background-color: var(--bg-light);
+  
 }
 nav .wrapper {
   display: flex;
